@@ -1,0 +1,26 @@
+img{
+    width: 738px;
+    height: 640px;
+    border-radius: 25%;
+    
+    
+}
+body{
+    text-align: center;
+    background-color:#09d7de 
+    
+    
+}
+a{
+    font-size: 35px;
+   font-family: 'Jomhuria', cursive;
+}
+h1{
+    font-size: 38px; 
+    font-family: 'Jomhuria', cursive;
+}
+a:hover{
+    font-size: 40px;
+
+}
+
